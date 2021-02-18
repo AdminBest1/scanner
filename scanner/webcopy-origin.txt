@@ -1,0 +1,92 @@
+Uri: https://webqr.com/
+File Name: C:\Downloaded Web Sites\webqr.com\index.htm
+Content Type: text/html
+
+Uri: https://webqr.com/index.html
+File Name: C:\Downloaded Web Sites\webqr.com\index.html
+Content Type: text/html
+
+Uri: https://webqr.com/create.html
+File Name: C:\Downloaded Web Sites\webqr.com\create.html
+Content Type: text/html
+
+Uri: https://webqr.com/about.html
+File Name: C:\Downloaded Web Sites\webqr.com\about.html
+Content Type: text/html
+
+Uri: https://webqr.com/contact.html
+File Name: C:\Downloaded Web Sites\webqr.com\contact.html
+Content Type: text/html
+
+Uri: http://www.lazarsoft.info/
+File Name: C:\Downloaded Web Sites\webqr.com\index-1.htm
+Content Type: text/html
+
+Uri: https://webqr.com/llqrcode.js
+File Name: C:\Downloaded Web Sites\webqr.com\llqrcode.js
+Content Type: application/javascript
+
+Uri: https://apis.google.com/js/plusone.js
+File Name: C:\Downloaded Web Sites\webqr.com\js\plusone.js
+Content Type: application/javascript
+
+Uri: https://webqr.com/webqr.js
+File Name: C:\Downloaded Web Sites\webqr.com\webqr.js
+Content Type: application/javascript
+
+Uri: https://webqr.com/vid.png
+File Name: C:\Downloaded Web Sites\webqr.com\vid.png
+Content Type: image/png
+
+Uri: https://webqr.com/cam.png
+File Name: C:\Downloaded Web Sites\webqr.com\cam.png
+Content Type: image/png
+
+Uri: https://webqr.com/down.png
+File Name: C:\Downloaded Web Sites\webqr.com\down.png
+Content Type: image/png
+
+Uri: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+File Name: C:\Downloaded Web Sites\webqr.com\pagead\js\f.txt
+Content Type: text/javascript
+
+Uri: https://webqr.com/comodo_secure_seal_100x85_transp.png
+File Name: C:\Downloaded Web Sites\webqr.com\comodo_secure_seal_100x85_transp.png
+Content Type: image/png
+
+Uri: https://github.com/LazarSoft/jsqrcode
+File Name: C:\Downloaded Web Sites\webqr.com\LazarSoft\jsqrcode.html
+Content Type: text/html
+
+Uri: https://webqr.com/firefox.png
+File Name: C:\Downloaded Web Sites\webqr.com\firefox.png
+Content Type: image/png
+
+Uri: https://webqr.com/chrome_logo.gif
+File Name: C:\Downloaded Web Sites\webqr.com\chrome_logo.gif
+Content Type: image/gif
+
+Uri: https://webqr.com/Opera-logo.png
+File Name: C:\Downloaded Web Sites\webqr.com\Opera-logo.png
+Content Type: image/png
+
+Uri: https://en.wikipedia.org/wiki/QR_code
+File Name: C:\Downloaded Web Sites\webqr.com\wiki\QR_code.html
+Content Type: text/html
+
+Uri: https://www.mozilla.org/ru/firefox/
+File Name: C:\Downloaded Web Sites\webqr.com\ru\firefox\index.htm
+Content Type: text/html
+
+Uri: https://www.google.com/chrome/
+File Name: C:\Downloaded Web Sites\webqr.com\chrome\index.htm
+Content Type: text/html
+
+Uri: https://www.opera.com/ru
+File Name: C:\Downloaded Web Sites\webqr.com\ru.html
+Content Type: text/html
+
+Uri: https://github.com/zxing/zxing
+File Name: C:\Downloaded Web Sites\webqr.com\zxing\zxing.html
+Content Type: text/html
+
